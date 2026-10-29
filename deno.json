@@ -1,6 +1,6 @@
 {
   "name": "@ora-space/claude-agent",
-  "version": "0.3.26",
+  "version": "0.3.27",
   "exports": "./src/main.ts",
   "minimumDependencyAge": 0,
   "imports": {
